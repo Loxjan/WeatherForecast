@@ -1,5 +1,5 @@
 # WeatherForecast
-designed by C#
+designed by C#    
 1.本程序用于查询当前输入城市的天气。   
 2.程序功能：   
 a. 根据用户的输入自动查询输入城市的天气状况，并给出用户合理的出行建议    
