@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArrayOfReminder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reminder>
+    <ID>ae1f4f54-eb5b-4520-b5ba-ceadde36510f</ID>
+    <Info>今天要交.net作业</Info>
+    <Time>14:57</Time>
+    <City>汉中</City>
+  </Reminder>
+</ArrayOfReminder>
